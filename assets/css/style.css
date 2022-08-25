@@ -123,6 +123,12 @@ button[type="reset"]:hover {
     background-color: #f2f2f2;
 }
 
+span{
+    color: red;
+    font-size: 0.7rem;
+    margin-top: 5px;
+}
+
 @media (max-width: 978px) {
     #login {
         display: none;
